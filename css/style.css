@@ -45,7 +45,7 @@ ul {
 
 }
  .login {
-    padding-left: 200px;
+    padding-left: 100px;
     
     color: #E38773;
  }
@@ -79,4 +79,19 @@ color: #2D2C2C;
     width: 20px;
     height: 20px;
     color: #E38773;
+}
+p {
+    font-size: 17px;
+    line-height: 28px;
+    color: #4a4949;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 925px;
+    margin-top: -40px;
+}
+.mug {
+    width: 450px;
+    height: 400px;
+    padding-left: 200px;
+    margin-top: -198px;
 }
