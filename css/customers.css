@@ -70,3 +70,34 @@ img {
     width: 50%;
     margin-left: 250px;
 }
+
+.buttons {
+    float: right;
+    margin-right: 130px;
+    margin-top: -280px;
+    width: 80px;
+    height: 80px;
+}
+
+.right {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(74, 73, 73);
+    margin-left: 15px;
+    margin-bottom: 7px;
+    background-image: url("../img/forward.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+}
+
+.left {
+    width: 60px;
+    height: 60px;
+    background-color: rgb(220, 137, 119);
+    margin-right: 25px;
+    background-image: url("../img/back.png");
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: center;
+}
