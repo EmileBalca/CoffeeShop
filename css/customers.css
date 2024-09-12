@@ -1,8 +1,48 @@
-.title{
-    font-size: 50px;
+.title {
+    font-size: 36px;
     line-height: 28px;
     text-transform: uppercase;
     color: #3b3b3b;
     font-weight: 700;
     font-family: "Poppins";
+    text-align: center;
 }
+
+.joy {
+    width: 800px;
+    height: 97px;
+    margin-top: 20px;
+    display: flex;
+}
+
+.mike {
+    width: 800px;
+    height: 97px;
+    margin-top: 90px;
+}
+
+.uliya {
+    width: 800px;
+    height: 97px;
+    margin-top: 90px;
+}
+
+p {
+    opacity: 0.812;
+    font-size: 18px;
+    line-height: 32px;
+    color: #3b3b3b;
+    font-weight: 400;
+    font-family: "Poppins";
+}
+
+h4 {
+    font-size: 30px;
+    line-height: 32px;
+    color: #3b3b3b;
+    font-weight: 700;
+    font-family: "Poppins";
+    margin-bottom: 0;
+}
+
+img {}
