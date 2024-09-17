@@ -31,6 +31,7 @@ h1 {
 li {
     display: inline;
     padding-left: 50px;
+    text-decoration: none;
 }
 
 ul {
@@ -42,6 +43,7 @@ ul {
     font-family: Arial, Helvetica, sans-serif;
     margin-left: 600px;
     color: gray;
+    list-style-type: none;
 
 }
  .login {
@@ -120,6 +122,7 @@ line-height: 28px;
 text-transform: uppercase;
 color: #fefefd;
 font-weight: 400;
+cursor: pointer;
 }
 .buttons {
     position: relative;
@@ -150,4 +153,8 @@ margin-left: -10px;
     background-position: center;
     height: 60px;
     width: 60px;
+}
+a {
+    text-decoration: none;
+    color: #4c4c4c;
 }
