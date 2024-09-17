@@ -76,7 +76,7 @@ button {
 .address {
     margin: auto;
     width: 872px;
-    height: 400px;
+    height: 200px;
     padding-top: 400px;
     color: white;
 }
@@ -117,6 +117,61 @@ p {
 .details {
     margin: auto;
     width: 883px;
-    height: 80px;
+    height: 70px;
     background-color: #d07d6b;
+    margin-top: 108px;
+}
+
+.nr {
+    color: white;
+    width: 150px;
+    height: 25px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 27px;
+    color: #fefefd;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-top: 20px;
+}
+
+.contact {
+    color: white;
+    width: 220px;
+    height: 25px;
+    margin: auto;
+    font-size: 18px;
+    line-height: 27px;
+    color: #fefefd;
+    font-weight: 400;
+    font-family: "Poppins";
+    margin-top: 20px;
+    padding-left: 70px;
+}
+
+.phone {
+    width: 20px;
+}
+
+.mail {
+    width: 20px;
+}
+
+.footer {
+    width: 600px;
+    height: 65px;
+}
+
+.copyright {
+    width: 20px;
+    color: white;
+}
+
+.text {
+    font-size: 17px;
+    line-height: 32px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Poppins";
+    height: 35px;
 }
