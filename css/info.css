@@ -34,6 +34,7 @@
     border: 1px solid rgb(239, 239, 239);
     border-radius: 30px;
     padding-left: 20px;
+    resize: none;
 }
 
 textarea {
@@ -45,6 +46,7 @@ textarea {
     border: 1px solid rgb(239, 239, 239);
     border-radius: 30px;
     padding-left: 20px;
+    resize: none;
 }
 
 .btn {
@@ -160,11 +162,18 @@ p {
 .footer {
     width: 600px;
     height: 65px;
+    float: left;
+    display: flex;
+    flex-wrap: nowrap;
+    margin-left: 250px;
+    margin-top: 30px;
 }
 
 .copyright {
-    width: 20px;
-    color: white;
+    width: 15px;
+    height: 15px;
+    margin-top: 25px;
+    margin-right: 5px;
 }
 
 .text {
@@ -174,4 +183,30 @@ p {
     font-weight: 400;
     font-family: "Poppins";
     height: 35px;
+}
+
+.icons {
+    width: 300px;
+    height: 65px;
+    float: right;
+}
+
+.fb {
+    width: 40px;
+    height: 40px;
+}
+
+.twitter {
+    width: 40px;
+    height: 40px;
+}
+
+.linkedin {
+    width: 40px;
+    height: 40px;
+}
+
+.ig {
+    width: 40px;
+    height: 40px;
 }
