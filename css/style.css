@@ -54,6 +54,7 @@ ul {
 
 .header {
     display: flex;
+    flex-wrap: nowrap;
 }
 .home {
     color: #2D2C2C;
