@@ -114,6 +114,7 @@ p {
     color: #383838;
     font-weight: 400;
     font-family: "Poppins";
+    padding-left: 15px;
 }
 
 .details {
@@ -189,24 +190,26 @@ p {
     width: 300px;
     height: 65px;
     float: right;
+    margin-top: 45px;
+    margin-right: 150px;
 }
 
 .fb {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 .twitter {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 .linkedin {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
 
 .ig {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
 }
