@@ -1,7 +1,7 @@
 .doze {
     color: white;
 }
-
+ 
 h2 {
     font-size: 40px;
     line-height: 28px;
@@ -9,13 +9,13 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
     color: #2D2C2C;
 }
-
+ 
 body {
     background-image: url(../img/coffee\ bg.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
-
+ 
 h1 {
     font-size: 177px;
     line-height: 28px;
@@ -27,13 +27,13 @@ h1 {
     margin-left: 400px;
     margin-top: 230px;
 }
-
+ 
 li {
     display: inline;
     padding-left: 50px;
     text-decoration: none;
 }
-
+ 
 ul {
     font-size: 18px;
     line-height: 28px;
@@ -44,21 +44,21 @@ ul {
     margin-left: 580px;
     color: gray;
     list-style-type: none;
-
+ 
 }
  .login {
     padding-left: 100px;
-    
+   
     color: #E38773;
  }
-
+ 
 .header {
     display: flex;
 }
 .home {
     color: #2D2C2C;
 }
-
+ 
 .tasty {
     color: #E38773;
 }
@@ -76,7 +76,7 @@ h4 {
     height: 20px;
     color: #E38773 ;
 }
-
+ 
 .search {
     width: 20px;
     height: 20px;
@@ -103,7 +103,7 @@ p {
     width: 230px;
     height: 65px;
     border-color: #E38773;
-    border-radius: 10px; 
+    border-radius: 10px;
     margin-right:10px;
 }
 .secondb {
@@ -113,7 +113,7 @@ p {
     height: 65px;
     border-color: #4a4949;
     border-radius: 10px;
-    
+   
 }
 button {
     border-radius: 10px;
