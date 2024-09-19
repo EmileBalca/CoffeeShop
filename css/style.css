@@ -154,9 +154,14 @@ button {
   height: 60px;
   width: 60px;
 }
-a {
+.a {
   text-decoration: none;
   color: #4c4c4c;
+}
+
+.about {
+  text-decoration: none;
+  color: #efefef;
 }
 
 .container {
@@ -181,7 +186,7 @@ a {
 .copyright {
   width: 15px;
   height: 15px;
-  margin-top: 132px;
+  margin-top: 133px;
   margin-right: 5px;
 }
 
