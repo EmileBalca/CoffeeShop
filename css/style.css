@@ -1,162 +1,226 @@
 .doze {
-    color: white;
+  color: white;
 }
- 
+
 h2 {
-    font-size: 40px;
-    line-height: 28px;
-    font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
-    color: #2D2C2C;
-    margin-top: 20px;
+  font-size: 40px;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2d2c2c;
+  margin-top: 20px;
 }
- 
+
 body {
-    background-image: url(../img/coffee\ bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+  background-image: url(../img/coffee\ bg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 900px;
 }
- 
+
 h1 {
-    font-size: 177px;
-    line-height: 28px;
-    color: #4a4949;
-    font-weight: 700;
-    text-align: center;
-    text-shadow: #efefef 10px 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 400px;
-    margin-top: 230px;
+  font-size: 177px;
+  line-height: 28px;
+  color: #4a4949;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: #efefef 10px 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 400px;
+  margin-top: 230px;
 }
- 
+
 li {
-    display: inline;
-    padding-left: 50px;
-    text-decoration: none;
+  display: inline;
+  padding-left: 50px;
+  text-decoration: none;
 }
- 
+
 ul {
-    font-size: 18px;
-    line-height: 28px;
-    text-transform: uppercase;
-    color: #4c4c4c;
-    font-weight: 400;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 580px;
-    color: gray;
-    list-style-type: none;
- 
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #4c4c4c;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 580px;
+  color: gray;
+  list-style-type: none;
 }
- .login {
-    padding-left: 100px;
-    color: #E38773;
- }
- 
+.login {
+  padding-left: 100px;
+  color: #e38773;
+}
+
 .header {
-    display: flex;
-    flex-wrap: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
 }
 .home {
-    color: #2D2C2C;
+  color: #2d2c2c;
 }
- 
+
 .tasty {
-    color: #E38773;
+  color: #e38773;
 }
 h4 {
-    font-size: 40px;
-    line-height: 28px;
-    font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 920px;
-    margin-top: -20px;
-    color: #2D2C2C;
+  font-size: 40px;
+  line-height: 28px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 920px;
+  margin-top: -20px;
+  color: #2d2c2c;
 }
 .person {
-    width: 15px;
-    height: 15px;
-    color: #E38773 ;
+  width: 15px;
+  height: 15px;
+  color: #e38773;
 }
- 
+
 .search {
-    width: 20px;
-    height: 20px;
-    color: #E38773;
+  width: 20px;
+  height: 20px;
+  color: #e38773;
 }
 p {
-    font-size: 17px;
-    line-height: 28px;
-    color: #4a4949;
-    font-weight: 400;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-left: 925px;
-    margin-top: -40px;
+  font-size: 17px;
+  line-height: 28px;
+  color: #4a4949;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 925px;
+  margin-top: -40px;
 }
 .mug {
-    width: 450px;
-    height: 400px;
-    padding-left: 200px;
-    margin-top: -198px;
+  width: 450px;
+  height: 400px;
+  padding-left: 200px;
+  margin-top: -198px;
 }
 .firstb {
-    background-color: #E38773;
-    color: #efefef ;
-    width: 230px;
-    height: 65px;
-    border-color: #E38773;
-    border-radius: 10px;
-    margin-right:10px;
+  background-color: #e38773;
+  color: #efefef;
+  width: 230px;
+  height: 65px;
+  border-color: #e38773;
+  border-radius: 10px;
+  margin-right: 10px;
 }
 .secondb {
-    background-color: #4a4949;
-    color: #efefef;
-    width: 230px;
-    height: 65px;
-    border-color: #4a4949;
-    border-radius: 10px;
-   
+  background-color: #4a4949;
+  color: #efefef;
+  width: 230px;
+  height: 65px;
+  border-color: #4a4949;
+  border-radius: 10px;
 }
 button {
-    border-radius: 10px;
-    border: 1px solid;
-    font-size: 18px;
-    line-height: 28px;
-    text-transform: uppercase;
-    color: #fefefd;
-    font-weight: 400;
-    cursor: pointer;
+  border-radius: 10px;
+  border: 1px solid;
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #fefefd;
+  font-weight: 400;
+  cursor: pointer;
 }
 .buttons {
-    position: relative;
-    margin-top: -180px;
-    padding-left: 920px;
+  position: relative;
+  margin-top: -180px;
+  padding-left: 920px;
 }
 .blocks {
-    width: 60px;
-    height: 60px;
-    position: fixed;
-    margin-top: 200px;
-    margin-left: -10px;
+  width: 60px;
+  height: 60px;
+  position: fixed;
+  margin-top: 200px;
+  margin-left: -10px;
 }
 .one {
-    background-color: #4a4949;
-    background-image: url(../img/forward.png);
-    background-size: 30px;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 60px;
-    width: 60px;
+  background-color: #4a4949;
+  background-image: url(../img/forward.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60px;
+  width: 60px;
 }
 .two {
-    background-color: #efefef;
-    background-image: url(../img/back2.png);
-    background-size: 30px;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 60px;
-    width: 60px;
+  background-color: #efefef;
+  background-image: url(../img/back2.png);
+  background-size: 30px;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 60px;
+  width: 60px;
 }
 a {
-    text-decoration: none;
-    color: #4c4c4c;
+  text-decoration: none;
+  color: #4c4c4c;
+}
+
+.container {
+  width: 100%;
+  height: 992px;
+  background-image: url("../img/pink.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100px;
+  background-position: bottom;
+}
+
+.footer {
+  width: 600px;
+  height: 65px;
+  float: left;
+  display: flex;
+  flex-wrap: nowrap;
+  margin-left: 250px;
+  margin-top: 190px;
+}
+
+.copyright {
+  width: 15px;
+  height: 15px;
+  margin-top: 125px;
+  margin-right: 5px;
+}
+
+.text {
+  font-size: 17px;
+  line-height: 32px;
+  color: #ffffff;
+  font-weight: 400;
+  font-family: "Poppins";
+  height: 35px;
+  width: 600px;
+  margin-left: auto;
+  margin-top: 120px;
+}
+
+.icons {
+  width: 300px;
+  height: 65px;
+  float: right;
+  margin-top: 320px;
+  margin-right: 150px;
+}
+
+.fb {
+  width: 30px;
+  height: 30px;
+}
+
+.twitter {
+  width: 30px;
+  height: 30px;
+}
+
+.linkedin {
+  width: 30px;
+  height: 30px;
+}
+
+.ig {
+  width: 30px;
+  height: 30px;
 }
