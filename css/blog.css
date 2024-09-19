@@ -30,7 +30,7 @@ h2 {
   filter: drop-shadow(0px 3px 55.5px rgba(0, 0, 0, 0.2));
   background-color: #fefefd;
   margin-left: 305px;
-  margin-top: 40px;
+  margin-top: 70px;
   background-image: url(../img/prepcoffee.png);
   background-repeat: no-repeat;
   background-size: 611px;
@@ -49,7 +49,7 @@ h2 {
   text-align: center;
   line-height: 100px;
   margin-left: 280px;
-  margin-top: 10px;
+  margin-top: 40px;
 }
 
 .box3 {
@@ -59,7 +59,7 @@ h2 {
   filter: drop-shadow(0px 3px 55.5px rgba(0, 0, 0, 0.2));
   background-color: #fefefd;
   margin-left: 950px;
-  margin-top: 40px;
+  margin-top: 70px;
   background-image: url(../img/ladywithphone.png);
   background-repeat: no-repeat;
   background-size: 611px;
@@ -78,7 +78,7 @@ h2 {
   text-align: center;
   line-height: 100px;
   margin-left: 930px;
-  margin-top: 10px;
+  margin-top: 40px;
 }
 
 .box1 h3 {
