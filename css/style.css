@@ -143,8 +143,7 @@ button {
   background-position: center;
   height: 60px;
   width: 60px;
-  margin-top: 120px;
-
+  margin-top: 160px;
 }
 .two {
   background-color: #efefef;
@@ -179,14 +178,13 @@ button {
   height: 65px;
   float: left;
   margin-left: 250px;
-
 }
 
 .copyright {
   width: 15px;
   height: 15px;
   margin-right: 5px;
-  margin-top: 150px;
+  margin-top: 105px;
 }
 
 .text {
@@ -197,9 +195,8 @@ button {
   font-family: "Poppins";
   height: 35px;
   width: 600px;
-  margin-left: 15px;
-  margin-top: -26px;
-
+  margin-left: 20px;
+  margin-top: -27px;
 }
 
 .icons {
@@ -207,8 +204,7 @@ button {
   height: 65px;
   float: right;
   margin-right: 150px;
-  margin-top: 130px;
- 
+  margin-top: 100px;
 }
 
 .fb {
