@@ -132,8 +132,6 @@ button {
 .blocks {
   width: 60px;
   height: 60px;
-  position: fixed;
-  margin-top: 200px;
   margin-left: -10px;
 }
 .one {
@@ -166,10 +164,10 @@ button {
 
 .container {
   width: 100%;
-  height: 992px;
+  height: 1000px;
   background-image: url("../img/pink.png");
   background-repeat: no-repeat;
-  background-size: 100% 100px;
+  background-size: 100% 110px;
   background-position: bottom;
 }
 
@@ -186,7 +184,7 @@ button {
 .copyright {
   width: 15px;
   height: 15px;
-  margin-top: 133px;
+  margin-top: 68px;
   margin-right: 5px;
 }
 
@@ -199,15 +197,15 @@ button {
   height: 35px;
   width: 600px;
   margin-left: auto;
-  margin-top: 125px;
+  margin-top: 60px;
 }
 
 .icons {
   width: 300px;
   height: 65px;
   float: right;
-  margin-top: 320px;
   margin-right: 150px;
+  margin-top: 250px;
 }
 
 .fb {
