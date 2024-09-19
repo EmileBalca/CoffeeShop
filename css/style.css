@@ -9,6 +9,7 @@ h2 {
   font-family: Arial, Helvetica, sans-serif;
   color: #2d2c2c;
   margin-top: 20px;
+  padding-left: 20px;
 }
 
 body {
@@ -142,6 +143,8 @@ button {
   background-position: center;
   height: 60px;
   width: 60px;
+  margin-top: 120px;
+
 }
 .two {
   background-color: #efefef;
@@ -175,17 +178,15 @@ button {
   width: 600px;
   height: 65px;
   float: left;
-  display: flex;
-  flex-wrap: nowrap;
   margin-left: 250px;
-  margin-top: 190px;
+
 }
 
 .copyright {
   width: 15px;
   height: 15px;
-  margin-top: 68px;
   margin-right: 5px;
+  margin-top: 150px;
 }
 
 .text {
@@ -196,8 +197,9 @@ button {
   font-family: "Poppins";
   height: 35px;
   width: 600px;
-  margin-left: auto;
-  margin-top: 60px;
+  margin-left: 15px;
+  margin-top: -26px;
+
 }
 
 .icons {
@@ -205,7 +207,8 @@ button {
   height: 65px;
   float: right;
   margin-right: 150px;
-  margin-top: 250px;
+  margin-top: 130px;
+ 
 }
 
 .fb {
