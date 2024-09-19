@@ -122,29 +122,6 @@ header {
   margin-left: -8px;
   margin-right: -8px;
 }
-.login {
-  padding-left: 70px;
-  color: #e38773;
-}
-.person {
-  width: 15px;
-  height: 15px;
-  color: #e38773;
-  margin-right: 0px;
-  margin-left: 30px;
-}
-
-.search {
-  width: 20px;
-  height: 20px;
-  color: #e38773;
-}
-li {
-  display: inline;
-  padding-left: 50px;
-  text-decoration: none;
-}
-
 ul {
   font-size: 18px;
   line-height: 28px;
@@ -155,8 +132,35 @@ ul {
   margin-left: 510px;
   color: gray;
   list-style-type: none;
-  margin-top: -4px;
+  display: inline-flex;
+  margin-top: 26px;
 }
+.login {
+  padding-left: 70px;
+  color: #e38773;
+  display: inline-flex;
+}
+.person {
+  width: 25px;
+  height: 25px;
+  color: #e38773;
+  margin-right: 0px;
+  margin-left: 30px;
+  margin-top: -1px;
+}
+
+.search {
+  width: 20px;
+  height: 20px;
+  color: #e38773;
+  margin-top: -1px;
+}
+li {
+  display: inline;
+  padding-left: 50px;
+  text-decoration: none;
+}
+
 a {
   text-decoration: none;
   color: #4c4c4c;

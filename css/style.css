@@ -46,10 +46,12 @@ ul {
   margin-left: 510px;
   color: gray;
   list-style-type: none;
+  display: inline-flex;
 }
 .login {
   padding-left: 100px;
   color: #e38773;
+  display: inline-flex;
 }
 
 .header {
@@ -73,8 +75,8 @@ h4 {
   color: #2d2c2c;
 }
 .person {
-  width: 15px;
-  height: 15px;
+  width: 25px;
+  height: 25px;
   color: #e38773;
 }
 
