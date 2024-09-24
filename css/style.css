@@ -16,6 +16,7 @@ body {
   background-image: url(../img/coffee\ bg.png);
   background-repeat: no-repeat;
   background-size: 100% 900px;
+  margin: 0;
 }
 
 h1 {
